@@ -1,0 +1,71 @@
+/* boarding page styyles */
+body {
+  background-image: url("../img/mm.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.content {
+  text-align: center;
+  width: 90%;
+  margin: 40px auto 0px;
+}
+
+.content h2 {
+  color: blue;
+  font-size: 35px;
+  font-family: Georgia;
+}
+
+.content p {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: transparent;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  width: 60%;
+  margin: 0px auto;
+}
+
+.flex-container div {
+  background-color: transparent;
+  width: 100px;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.flex-container li {
+  color: white;
+}
+
+.flex-container h4 {
+  color: black;
+  font-size: 25px;
+}
+
+.flex-container h2 {
+  color: orange;
+}
+
+.main2 p {
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}
+
+.main2 {
+  max-width: 90%;
+  margin: 0px auto;
+  padding-bottom: 50px;
+}
