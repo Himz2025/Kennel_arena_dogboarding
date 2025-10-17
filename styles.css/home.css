@@ -1,0 +1,31 @@
+/* home page styyles */
+body {
+  background-image: url("../img/vv.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.content {
+  max-width: 90%;
+  margin: 40px auto 0px;
+  padding-bottom: 50px;
+}
+
+.main2 {
+  font-size: 22px;
+}
+
+.main2 h2 {
+  color: white;
+}
+
+.main3 {
+  font-size: 22px;
+  color: blue;
+}
+
+.main4 {
+  font-size: 28px;
+  color: purple;
+}

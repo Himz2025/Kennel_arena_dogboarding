@@ -1,0 +1,26 @@
+/* thank you page styyles */
+body {
+  background-image: url("../img/pp.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.main,
+.main2 {
+  width: 90%;
+  height: auto;
+  margin: 0px auto;
+}
+
+.main h1 {
+  font-size: 100px;
+  text-align: right;
+  color: darkorange;
+  font-family: arial;
+}
+
+.main2 p {
+  font-size: 30px;
+  text-align: right;
+}
