@@ -1,5 +1,5 @@
 body {
-  background-image: url("images/ll.jpg");
+  background-image: url('../images/ll.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -110,6 +110,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
