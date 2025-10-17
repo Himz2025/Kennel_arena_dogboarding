@@ -1,6 +1,6 @@
 /* contact page styyles */
 body {
-  background-image: url("../img/ee.jpg");
+  background-image: url('images/ee.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -70,3 +70,4 @@ body {
 .contact-form .btn:hover {
   background-color: darkorange;
 }
+
