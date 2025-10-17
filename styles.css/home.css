@@ -1,6 +1,6 @@
 /* home page styyles */
 body {
-  background-image: url("../img/vv.jpg");
+  background-image: url('images/vv.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -29,3 +29,4 @@ body {
   font-size: 28px;
   color: purple;
 }
+
