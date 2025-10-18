@@ -20,7 +20,7 @@ body {
   color: red;
 }
 
-p. thick {
+p. {
   font-weight : bold;
 }
 
@@ -33,6 +33,7 @@ p. thick {
   font-size: 28px;
   color: purple;
 }
+
 
 
 
