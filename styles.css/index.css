@@ -8,7 +8,7 @@ body {
   width: 150px;        
   height: 150px;       
   position: right;             
-  right: 5px;    
+  margin-right: 10px;    
 }
 ul {
   margin-top: 0px;
@@ -115,6 +115,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
