@@ -5,11 +5,11 @@ body {
   background-attachment: fixed;
 }
 .logo {
-  width: 80px;        
-  height: auto;       
-  position: left;    
-  top: 20px;          
-  left: 20px;    
+  width: 150px;        
+  height: 150px;       
+  position: right;    
+  top: 10px;          
+  left: 10px;    
 }
 ul {
   margin-top: 0px;
@@ -116,6 +116,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
