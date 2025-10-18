@@ -20,6 +20,10 @@ body {
   color: red;
 }
 
+.main2 p {
+  font-wight: bold;
+}
+
 .main3 {
   font-size: 22px;
   color: blue;
@@ -29,6 +33,7 @@ body {
   font-size: 28px;
   color: purple;
 }
+
 
 
 
