@@ -1,6 +1,6 @@
 /* daycare page styyles */
 body {
-  background-image: url('images/dd.jpg');
+  background-image: url('../images/dd.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -43,5 +43,6 @@ body {
   line-height: 25px;
   font-size: 18px;
 }
+
 
 
