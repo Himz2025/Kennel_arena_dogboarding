@@ -4,7 +4,12 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-
+.logo {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 20px auto;  /* centers horizontally */
+}
 ul {
   margin-top: 0px;
 }
@@ -110,6 +115,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
