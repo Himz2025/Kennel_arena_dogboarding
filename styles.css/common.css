@@ -2,9 +2,6 @@ body {
   height: 100vh;
   margin: 0;
   font-family: Arial;
-  background-image: url('../images/logo3.png');
-  background-repeat: no-repeat;
-  background-position: left top;
 }
 .navbar {
   text-align: center;
@@ -55,6 +52,7 @@ ul li a:hover {
 .cn:hover {
   background-color: orange;
 }
+
 
 
 
