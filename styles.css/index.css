@@ -6,7 +6,7 @@ body {
 }
 
 ul {
-  margin-top: 0px;
+  margin-top: 20px;
 }
 
 .content {
@@ -110,6 +110,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
