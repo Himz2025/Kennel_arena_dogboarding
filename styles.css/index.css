@@ -6,8 +6,7 @@ body {
 }
 .logo {
   width: 150px;        
-  height: 150px;                    
-  margin-right: 50px;    
+  height: 150px;                        
 }
 ul {
   margin-top: 0px;
@@ -114,6 +113,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
