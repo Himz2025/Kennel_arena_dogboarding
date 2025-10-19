@@ -17,7 +17,7 @@ ul {
   max-width: 90%;
   margin: 40px auto 0px;
   gap: 30px;
-  margin top: -20%;
+  margin-top: -20%;
 }
 
 .content h1 {
@@ -111,6 +111,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
