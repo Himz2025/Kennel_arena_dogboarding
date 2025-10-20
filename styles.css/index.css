@@ -4,11 +4,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-media screen and (max-width: 768px) {
-  body {
-    background-attachment: scroll;
-    background-position: center;
-  }
 ul {
   margin-top: 0px;
 }
@@ -114,6 +109,7 @@ ul {
 .form .sign-up-link:hover {
   color: orange;
 }
+
 
 
 
